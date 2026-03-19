@@ -1,0 +1,6 @@
+/bin
+/node_modules
+/temp
+/db.json
+/client/dist
+/client/node_modules
