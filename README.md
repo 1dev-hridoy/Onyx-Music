@@ -7,6 +7,13 @@
 
 Onyx is a brutalist, realistic, and highly polished music web-application. It abandons traditional "Spotify" aesthetics for a commanding, human-crafted dark mode complete with glassmorphism pane effects, dynamic CSS audio visualizers, and a pure Node.js background pipeline that fetches, converts, and streams audio instantly.
 
+## Demo Video
+
+## 🎬 Onyx Music Demo
+
+[![Watch Demo](https://res.cloudinary.com/dastfgrsc/video/upload/so_0,w_800,h_450,c_fill/v1773993758/Onyx-Music_bbqbo4.jpg)](https://res.cloudinary.com/dastfgrsc/video/upload/v1773993758/Onyx-Music_bbqbo4.mp4)
+
+
 ## 🌟 Features
 
 - **The Bold Onyx UI**: Completely custom, brutalist layout relying on pure `#030303` black and stark white contrast, devoid of AI-generated tropes.
